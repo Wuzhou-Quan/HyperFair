@@ -1,6 +1,6 @@
 # FairHyp
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-2024-red.svg)]([https://arxiv.org/abs/2406.13445](https://arxiv.org/abs/2505.11267))
+[![ArXiv](https://img.shields.io/badge/ArXiv-2025-red.svg)]([https://arxiv.org/abs/2406.13445](https://arxiv.org/abs/2505.11267))
 > **Equal is Not Always Fair: A New Perspective on Hyperspectral Representation Non-Uniformity**  
 > Wuzhou Quan, Mingqiang Wei, Jinhui Tang
 
